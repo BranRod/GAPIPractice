@@ -1,0 +1,19 @@
+{
+  "name": "elevation",
+  "version": "1.0.0",
+  "description": "Find the elevation of any location",
+  "main": "api.js",
+  "dependencies": {
+    "eslint": "^4.8.0",
+    "express": "^4.16.1",
+    "http-https": "^1.0.0",
+    "meters-to-feet": "^1.1.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
